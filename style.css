@@ -1,0 +1,15 @@
+h1{
+    color:brown;
+    font-family: 'Courier New', Courier;
+    background-color: aqua;
+    text-align: center;
+ 
+}
+p{
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aquamarine;
+    text-decoration: overline;
+    text-align: left;
+
+}
